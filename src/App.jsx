@@ -280,7 +280,7 @@ export default function App() {
       points: [
         'Submitted a detailed proposal to integrate a self-deployed LLM chatbot into IntelOwl, a major open-source threat intelligence platform.',
         'Proposed a technical integration plan detailing a RAG (Retrieval-Augmented Generation) pipeline structure utilizing LangChain, local LLM execution via Ollama, a ReactJS sidebar, and Django REST APIs.',
-        'Coordinated with organization mentors to align system interface and RAG constraints.'
+        'Discussed the proposal and technical approach with project mentors.'
       ]
     },
     {
@@ -692,7 +692,7 @@ export default function App() {
             <h2 className="text-3xl sm:text-4xl font-bold mb-4">Get In Touch</h2>
             <div className="w-16 h-1 bg-gradient-to-r from-purple-500 to-cyan-400 mx-auto rounded-full mb-6" />
             <p className="text-[#e4e4e7] text-lg">
-              Have an opening, a project collaboration, or a technical inquiry? Send a direct dispatch below.
+              Whether you have a project, internship opportunity, or just want to connect, feel free to reach out. I'd love to hear from you.
             </p>
           </div>
 
@@ -703,7 +703,7 @@ export default function App() {
                 <div>
                   <h3 className="text-2xl font-bold text-white mb-6">Contact Information</h3>
                   <p className="text-sm text-[#e4e4e7] mb-8 leading-relaxed">
-                    Feel free to reach out directly through the form or using the social channels below. I'm always open to discuss modern engineering architectures and opportunities.
+                    Feel free to reach out directly through the form or using the social channels below. I'm always open to discuss projects, internships, collaborations, or engineering opportunities.
                   </p>
 
                   <div className="space-y-5">
